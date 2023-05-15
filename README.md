@@ -159,8 +159,8 @@ If you like this project, kindly follow me on my social media handles listed abo
 
 
 <p>I would like to thank everyone who made this project possible</p>
-<p>This project was insipred by the [minimalist website](https://web.archive.org/web/20180320194056/http://www.getminimalist.com:80/)</p>
-<p>Thanks to [web.archive.org](https://web.archive.org/web/20180320194056/http://www.getminimalist.com:80/) for making it available.</p>
+<p>This project was insipred by the minimalist website https://web.archive.org/web/20180320194056/http://www.getminimalist.com:80/</p>
+<p>Thanks to web.archive.org https://web.archive.org/web/20180320194056/http://www.getminimalist.com:80/ for making it available.</p>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
